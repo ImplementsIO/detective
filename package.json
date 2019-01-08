@@ -1,0 +1,11 @@
+{
+  "name": "runkit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",  
+  "devDependencies": {},
+  "dependencies": {
+    "debug": "^4.1.1",
+    "node-source-walk": "^4.2.0"
+  }
+}
