@@ -2,8 +2,13 @@
   "name": "runkit",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",  
-  "devDependencies": {},
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
   "dependencies": {
     "debug": "^4.1.1",
     "node-source-walk": "^4.2.0"
