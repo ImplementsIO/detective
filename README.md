@@ -17,4 +17,4 @@ find all calls to `require()` and `from/import 'package'` by walking the AST
 
 ## License
 
-Maidops is [MIT licensed](./LICENSE).
+Detective is [MIT licensed](./LICENSE).
