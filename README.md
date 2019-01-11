@@ -3,8 +3,6 @@
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
 
-https://img.shields.io/travis/implementsio/detective.svg?style=flat-square
-
 find all calls to `require()` and `from/import 'package'` by walking the AST
 
 [npm-image]: https://img.shields.io/npm/v/@implementsio/detective.svg?style=flat-square
